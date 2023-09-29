@@ -4,17 +4,16 @@
   <a class="navbar-brand" href="#">Navbar</a>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="index.php">home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="login.php">login</a>
-        </li>
+        
+        
         <li class="nav-item">
           <a class="nav-link" href="rgister.php">register</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="profile.php">profile</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="task.php">task</a>
         </li>
        
         
